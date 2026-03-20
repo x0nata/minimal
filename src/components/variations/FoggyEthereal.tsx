@@ -141,7 +141,7 @@ const FoggyEthereal: React.FC = () => {
         }}
       />
 
-      <header className="fixed top-0 left-0 w-full p-6 md:p-8 flex justify-between items-start z-40 overflow-hidden ">
+      <header className="fixed top-0 left-0 w-full p-6 md:p-10 flex justify-between items-start z-40 overflow-hidden ">
         <div className="pointer-events-none absolute inset-0 bg-gradient-to-b from-black/72 via-black/45 to-black/10" />
         <div
           className="pointer-events-none absolute inset-0"
@@ -154,12 +154,12 @@ const FoggyEthereal: React.FC = () => {
         />
         <div className="text-xs uppercase tracking-[0.3em] flex items-center gap-3 group cursor-pointer relative z-10">
           <span className="group-hover:tracking-[0.4em] transition-all duration-500">[MNML]</span>
-          <span className="w-6 h-[1px] bg-white/80" />
+          <span className="w-5 h-[1px] bg-white/80" />
         </div>
         <div className="text-right space-y-2 relative z-10">
           <a
             href="https://www.instagram.com/minimalgraphic.design?igsh=djlkNTl0eWl6N2R1"
-            className="text-[12px] uppercase tracking-[0.3em] block hover:italic transition-all duration-500"
+            className="text-[11px] uppercase tracking-[0.3em] block hover:italic transition-all duration-500"
           >
             @MINIMALGRAPHIC.DESIGN
           </a>
