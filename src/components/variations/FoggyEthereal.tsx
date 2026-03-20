@@ -334,7 +334,7 @@ const FoggyEthereal: React.FC = () => {
             }}
           >
             <div className="absolute inset-0 bg-gradient-to-b from-transparent via-white/5 to-transparent translate-y-full group-hover:translate-y-0 transition-transform duration-1000 ease-out flex items-center justify-center">
-              <span className="text-white uppercase tracking-[0.5em] text-xs">View Showreel</span>
+              <span className="text-white uppercase tracking-[0.5em] text-xs"></span>
             </div>
 
             <div className="absolute inset-8 md:inset-12 border border-white/10 flex items-center justify-center">
